@@ -1,0 +1,3 @@
+#SuperNodes Main Config
+#Reload Message /nodes reload
+reload-message: Nodes Config has successfully reloaded

@@ -1,0 +1,8 @@
+name: SuperNodes
+version: ${project.version}
+main: com.evasive.me.supernodes.SuperNodes
+api-version: 1.16
+commands:
+  nodes:
+    description: Node Commands
+    usage: /nodes
